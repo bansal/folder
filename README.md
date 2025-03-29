@@ -33,7 +33,7 @@ An open-source, serverless **Digital Asset Management (DAM)** software that help
 - Search functionality
 - Responsive design for mobile and desktop
 - Dark mode
-- Authentication with Google and Github
+- Authentication with Google and GitHub
 - Custom domain support
 - Serverless architecture
 
