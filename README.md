@@ -2,9 +2,9 @@
 
 An open-source, serverless **Digital Asset Management (DAM)** software that helps you **store, organize, and share** files and folders. With **Folder**, you can securely share files, manage permissions, and even publish folders as a static website.
 
-![Folder Preview](https://folder.run/preview/0.0.png)
-![Folder Preview](https://folder.run/preview/6.0.png)
-![Folder Preview](https://folder.run/preview/1.0.png)
+![Folder Preview](https://assets.bansal.io/folder-preview/0.0.png)
+![Folder Preview](https://assets.bansal.io/folder-preview/6.0.png)
+![Folder Preview](https://assets.bansal.io/folder-preview/1.0.png)
 
 ## Why Folder?
 
