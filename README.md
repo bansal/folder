@@ -1,3 +1,6 @@
+> [!Note] 
+> Folder is no longer actively maintained and is not recommended for production use. Use it at your own risk.
+
 # Folder
 
 An open-source, serverless **Digital Asset Management (DAM)** software that helps you **store, organize, and share** files and folders. With **Folder**, you can securely share files, manage permissions, and even publish folders as a static website.
@@ -83,7 +86,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## Disclaimer
 
-This project is still in development. **Use at your own risk.** See [DISCLAIMER](DISCLAIMER.md) for details.
+This project is no longer actively maintained. **Use at your own risk.** See [DISCLAIMER](DISCLAIMER.md) for details.
 
 ## License
 
